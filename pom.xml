@@ -7,7 +7,7 @@
 	<packaging>war</packaging>
 	<version>0.0.1.5-SNAPSHOT</version>
 	
-	<name>maven-web-application-Flipkart-Development</name>
+	<name>maven-web-application-Flipkart-stage</name>
 
 	<description>Maven Web Project for Java Project</description>
 
